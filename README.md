@@ -1,6 +1,6 @@
 # libTKM
 
-İstanbul Büyükşehir Belediyesi [Trafik Kontrol Merkezi (TKM)](http://tkm.ib.gov.tr)  trafik yoğunluğu uygulamasından trafik verisini çekmek için bir yazılım kütüphanesi ve demo uygulaması.
+İstanbul Büyükşehir Belediyesi [Trafik Kontrol Merkezi (TKM)](http://tkm.ibb.gov.tr)  trafik yoğunluğu uygulamasından trafik verisini çekmek için bir yazılım kütüphanesi ve demo uygulaması.
 
 Kütüphanenin kullanımı hakkında bilgi edinmek için TKMDemoApp uygulamasını inceleyebilirsiniz. 
 
